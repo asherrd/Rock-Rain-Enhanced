@@ -37,6 +37,7 @@ namespace RockRainEnhanced
             menuScroll = Content.Load<SoundEffect>("menu_scroll");
             powerShow = Content.Load<SoundEffect>("powershow");
             powerGet = Content.Load<SoundEffect>("powerget");
+
         }
     }
 }
