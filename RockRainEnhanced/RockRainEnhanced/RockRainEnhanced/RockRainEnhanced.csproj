@@ -109,11 +109,17 @@
   <ItemGroup>
     <Compile Include="ActionScene.cs" />
     <Compile Include="AudioLibrary.cs" />
+    <Compile Include="Player.cs" />
+    <Compile Include="PowerSource.cs" />
+    <Compile Include="Score.cs" />
     <Compile Include="Core\GamePadRumble.cs" />
     <Compile Include="Core\GameScene.cs" />
     <Compile Include="Core\ImageComponent.cs" />
+    <Compile Include="Core\Sprite.cs" />
     <Compile Include="Core\TextMenuComponent.cs" />
     <Compile Include="HelpScene.cs" />
+    <Compile Include="Meteor.cs" />
+    <Compile Include="MeteorsManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Game1.cs" />

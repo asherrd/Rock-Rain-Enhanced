@@ -1,9 +1,7 @@
-using System;
-using System.Collections.Generic;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Input;
 
-namespace RockRain.Core
+namespace RockRainEnhanced.Core
 {
     /// <summary>
     /// This component helps shake your Joystick
@@ -16,7 +14,6 @@ namespace RockRain.Core
         public SimpleRumblePad(Game game)
             : base(game)
         {
-
         }
 
         /// <summary>
@@ -32,6 +29,7 @@ namespace RockRain.Core
                 {
                     time = 0;
                     GamePad.SetVibration(PlayerIndex.One, 0, 0);
+                    GamePad.SetVibration(PlayerIndex.Two, 0, 0);
                 }
             }
             base.Update(gameTime);
@@ -50,14 +48,25 @@ namespace RockRain.Core
         /// <summary>
         /// Set the vibration
         /// </summary>
+        /// <param name="playerIndex">Pad ID</param>
         /// <param name="Time">Vibration time</param>
         /// <param name="LeftMotor">Left Motor Intensity</param>
         /// <param name="RightMotor">Right Motor Intensity</param>
-        public void RumblePad(int Time, float LeftMotor, float RightMotor)
+        public void RumblePad(PlayerIndex playerIndex, int Time, float LeftMotor,
+            float RightMotor)
         {
             lastTickCount = System.Environment.TickCount;
             time = Time;
-            GamePad.SetVibration(PlayerIndex.One, LeftMotor, RightMotor);
+            GamePad.SetVibration(playerIndex, LeftMotor, RightMotor);
+        }
+
+        /// <summary>
+        /// Stop the vibration
+        /// </summary>
+        /// <param name="playerIndex">Pad ID</param>
+        public void Stop(PlayerIndex playerIndex)
+        {
+            GamePad.SetVibration(playerIndex, 0, 0);
         }
     }
 }

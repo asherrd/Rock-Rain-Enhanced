@@ -29,10 +29,35 @@ namespace RockRainEnhanced
         protected bool showEnhanced;
         protected TimeSpan elapsedTime = TimeSpan.Zero;
 
-        public StartScene(Game game)
+        /// <summary>
+        /// Default Constructor
+        /// </summary>
+        /// <param name="game">Main game object</param>
+        /// <param name="smallFont">Font for the menu items</param>
+        /// <param name="largeFont">Font for the menu selcted item</param>
+        /// <param name="background">Texture for background image</param>
+        /// <param name="elements">Texture with the foreground elements</param>
+        public StartScene(Game game, SpriteFont smallFont, SpriteFont largeFont,
+                            Texture2D background, Texture2D elements)
             : base(game)
         {
-            // TODO: Construct any child components here
+            this.elements = elements;
+            Components.Add(new ImageComponent(game, background,
+                                            ImageComponent.DrawMode.Center));
+
+            // Create the Menu
+            string[] items = { "One Player", "Two Players", "Help", "Quit" };
+            menu = new TextMenuComponent(game, smallFont, largeFont);
+            menu.SetMenuItems(items);
+            Components.Add(menu);
+
+            // Get the current spritebatch
+            spriteBatch = (SpriteBatch)Game.Services.GetService(
+                                            typeof(SpriteBatch));
+
+            // Get the audio library
+            audio = (AudioLibrary)
+                Game.Services.GetService(typeof(AudioLibrary));
         }
 
         /// <summary>
@@ -44,6 +69,47 @@ namespace RockRainEnhanced
             // TODO: Add your initialization code here
 
             base.Initialize();
+        }
+
+        /// <summary>
+        /// Show the start scene
+        /// </summary>
+        public override void Show()
+        {
+            audio.NewMeteor.Play();
+
+            rockPosition.X = -1 * rockRect.Width;
+            rockPosition.Y = 40;
+            rainPosition.X = Game.Window.ClientBounds.Width;
+            rainPosition.Y = 180;
+            // Put the menu centered in screen
+            menu.Position = new Vector2((Game.Window.ClientBounds.Width -
+                                          menu.Width) / 2, 330);
+
+            // These elements will be visible when the 'Rock Rain' title
+            // is done.
+            menu.Visible = false;
+            menu.Enabled = false;
+            showEnhanced = false;
+
+            base.Show();
+        }
+
+        /// <summary>
+        /// Hide the start scene
+        /// </summary>
+        public override void Hide()
+        {
+            MediaPlayer.Stop();
+            base.Hide();
+        }
+
+        /// <summary>
+        /// Gets the selected menu option
+        /// </summary>
+        public int SelectedMenuIndex
+        {
+            get { return menu.SelectedIndex; }
         }
 
         /// <summary>
@@ -90,6 +156,20 @@ namespace RockRainEnhanced
                 }
             }
             base.Update(gameTime);
+        }
+
+        /// <summary>
+        /// Allows the GameComponent to draw itself
+        /// </summary>
+        /// <param name="gameTime">Pvoides a snapshot of timeing values</param>
+        public override void Draw(GameTime gameTime)
+        {
+            base.Draw(gameTime);
+
+            spriteBatch.Draw(elements, rockPosition, rockRect, Color.White);
+            spriteBatch.Draw(elements, rainPosition, rainRect, Color.White);
+            if (showEnhanced)
+                spriteBatch.Draw(elements, enhancedPosition, enhancedRect, Color.White);
         }
     }
 }

@@ -7,9 +7,9 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\web\Documents\My Dropbox\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\backmusic.xnb</Output>
-      <Extra>C:\Users\web\Documents\My Dropbox\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\backmusic.wma</Extra>
-      <Time>2011-05-18T14:52:44.561-07:00</Time>
+      <Output>C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\backmusic.xnb</Output>
+      <Extra>C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\backmusic.wma</Extra>
+      <Time>2011-05-18T14:52:44-07:00</Time>
     </Item>
     <Item>
       <Source>startmusic.mp3</Source>
@@ -17,9 +17,9 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\web\Documents\My Dropbox\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\startmusic.xnb</Output>
-      <Extra>C:\Users\web\Documents\My Dropbox\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\startmusic.wma</Extra>
-      <Time>2011-05-18T14:52:44.73-07:00</Time>
+      <Output>C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\startmusic.xnb</Output>
+      <Extra>C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\startmusic.wma</Extra>
+      <Time>2011-05-18T14:52:44-07:00</Time>
     </Item>
     <Item>
       <Source>explosion.wav</Source>
@@ -27,8 +27,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\web\Documents\My Dropbox\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\explosion.xnb</Output>
-      <Time>2011-05-18T14:52:44.566-07:00</Time>
+      <Output>C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2011-05-18T14:52:44-07:00</Time>
     </Item>
     <Item>
       <Source>menu_back.wav</Source>
@@ -36,8 +36,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\web\Documents\My Dropbox\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\menu_back.xnb</Output>
-      <Time>2011-05-18T14:52:44.586-07:00</Time>
+      <Output>C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\menu_back.xnb</Output>
+      <Time>2011-05-18T14:52:44-07:00</Time>
     </Item>
     <Item>
       <Source>menu_scroll.wav</Source>
@@ -45,8 +45,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\web\Documents\My Dropbox\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\menu_scroll.xnb</Output>
-      <Time>2011-05-18T14:52:44.59-07:00</Time>
+      <Output>C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\menu_scroll.xnb</Output>
+      <Time>2011-05-18T14:52:44-07:00</Time>
     </Item>
     <Item>
       <Source>menu_select3.wav</Source>
@@ -54,8 +54,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\web\Documents\My Dropbox\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\menu_select3.xnb</Output>
-      <Time>2011-05-18T14:52:44.594-07:00</Time>
+      <Output>C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\menu_select3.xnb</Output>
+      <Time>2011-05-18T14:52:44-07:00</Time>
     </Item>
     <Item>
       <Source>newmeteor.wav</Source>
@@ -63,8 +63,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\web\Documents\My Dropbox\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\newmeteor.xnb</Output>
-      <Time>2011-05-18T14:52:44.614-07:00</Time>
+      <Output>C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\newmeteor.xnb</Output>
+      <Time>2011-05-18T14:52:44-07:00</Time>
     </Item>
     <Item>
       <Source>powerget.wav</Source>
@@ -72,8 +72,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\web\Documents\My Dropbox\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\powerget.xnb</Output>
-      <Time>2011-05-18T14:52:44.618-07:00</Time>
+      <Output>C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\powerget.xnb</Output>
+      <Time>2011-05-18T14:52:44-07:00</Time>
     </Item>
     <Item>
       <Source>powershow.wav</Source>
@@ -81,8 +81,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\web\Documents\My Dropbox\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\powershow.xnb</Output>
-      <Time>2011-05-18T14:52:44.622-07:00</Time>
+      <Output>C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\powershow.xnb</Output>
+      <Time>2011-05-18T14:52:44-07:00</Time>
     </Item>
     <Item>
       <Source>helpbackground.jpg</Source>
@@ -90,8 +90,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\web\Documents\My Dropbox\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\helpbackground.xnb</Output>
-      <Time>2011-05-18T14:52:44.576-07:00</Time>
+      <Output>C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\helpbackground.xnb</Output>
+      <Time>2011-05-18T14:52:44-07:00</Time>
     </Item>
     <Item>
       <Source>helpforeground.jpg</Source>
@@ -99,8 +99,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\web\Documents\My Dropbox\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\helpforeground.xnb</Output>
-      <Time>2011-05-18T14:52:44.583-07:00</Time>
+      <Output>C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\helpforeground.xnb</Output>
+      <Time>2011-05-18T14:52:44-07:00</Time>
     </Item>
     <Item>
       <Source>rockrainenhanced.png</Source>
@@ -108,8 +108,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\web\Documents\My Dropbox\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\rockrainenhanced.xnb</Output>
-      <Time>2011-05-18T14:52:44.632-07:00</Time>
+      <Output>C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\rockrainenhanced.xnb</Output>
+      <Time>2011-05-18T14:52:44-07:00</Time>
     </Item>
     <Item>
       <Source>startbackground.jpg</Source>
@@ -117,8 +117,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\web\Documents\My Dropbox\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\startbackground.xnb</Output>
-      <Time>2011-05-18T14:52:44.694-07:00</Time>
+      <Output>C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\startbackground.xnb</Output>
+      <Time>2011-05-18T14:52:44-07:00</Time>
     </Item>
     <Item>
       <Source>startSceneElements.png</Source>
@@ -126,8 +126,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\web\Documents\My Dropbox\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\startSceneElements.xnb</Output>
-      <Time>2011-05-18T14:52:44.733-07:00</Time>
+      <Output>C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\startSceneElements.xnb</Output>
+      <Time>2011-05-18T14:52:44-07:00</Time>
     </Item>
     <Item>
       <Source>SpaceBackground.dds</Source>
@@ -135,8 +135,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\web\Documents\My Dropbox\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\SpaceBackground.xnb</Output>
-      <Time>2011-05-18T14:52:44.647-07:00</Time>
+      <Output>C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\SpaceBackground.xnb</Output>
+      <Time>2011-05-18T14:52:44-07:00</Time>
     </Item>
     <Item>
       <Source>menuLarge.spritefont</Source>
@@ -144,8 +144,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\web\Documents\My Dropbox\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\menuLarge.xnb</Output>
-      <Time>2011-05-18T14:52:44.603-07:00</Time>
+      <Output>C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\menuLarge.xnb</Output>
+      <Time>2011-05-18T14:52:44-07:00</Time>
     </Item>
     <Item>
       <Source>menuSmall.spritefont</Source>
@@ -153,8 +153,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\web\Documents\My Dropbox\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\menuSmall.xnb</Output>
-      <Time>2011-05-18T14:52:44.61-07:00</Time>
+      <Output>C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\menuSmall.xnb</Output>
+      <Time>2011-05-18T14:52:44-07:00</Time>
     </Item>
     <Item>
       <Source>score.spritefont</Source>
@@ -162,8 +162,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\web\Documents\My Dropbox\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\score.xnb</Output>
-      <Time>2011-05-18T14:52:44.636-07:00</Time>
+      <Output>C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\score.xnb</Output>
+      <Time>2011-05-18T14:52:44-07:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -171,10 +171,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\web\Documents\My Dropbox\RockRainEnhanced\RockRainEnhanced\RockRainEnhancedContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\web\Documents\My Dropbox\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\web\Documents\My Dropbox\RockRainEnhanced\RockRainEnhanced\RockRainEnhancedContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\web\Documents\My Dropbox\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhancedContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhancedContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

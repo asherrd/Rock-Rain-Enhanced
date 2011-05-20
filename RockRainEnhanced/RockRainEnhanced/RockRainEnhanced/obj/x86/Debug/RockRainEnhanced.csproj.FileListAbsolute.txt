@@ -24,3 +24,29 @@ C:\Users\web\Documents\My Dropbox\RockRainEnhanced\RockRainEnhanced\RockRainEnha
 C:\Users\web\Documents\My Dropbox\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\web\Documents\My Dropbox\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\obj\x86\Debug\RockRainEnhanced.exe
 C:\Users\web\Documents\My Dropbox\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\obj\x86\Debug\RockRainEnhanced.pdb
+C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\backmusic.xnb
+C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\startmusic.xnb
+C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\explosion.xnb
+C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\menu_back.xnb
+C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\menu_scroll.xnb
+C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\menu_select3.xnb
+C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\newmeteor.xnb
+C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\powerget.xnb
+C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\powershow.xnb
+C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\helpbackground.xnb
+C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\helpforeground.xnb
+C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\rockrainenhanced.xnb
+C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\startbackground.xnb
+C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\startSceneElements.xnb
+C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\SpaceBackground.xnb
+C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\menuLarge.xnb
+C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\menuSmall.xnb
+C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\score.xnb
+C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\backmusic.wma
+C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\Content\startmusic.wma
+C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\RockRainEnhanced.exe
+C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\bin\x86\Debug\RockRainEnhanced.pdb
+C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\obj\x86\Debug\RockRainEnhanced.exe
+C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhanced\obj\x86\Debug\RockRainEnhanced.pdb

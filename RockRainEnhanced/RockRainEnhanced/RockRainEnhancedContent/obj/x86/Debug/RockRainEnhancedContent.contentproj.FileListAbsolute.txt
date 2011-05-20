@@ -1,1 +1,2 @@
 C:\Users\web\Documents\My Dropbox\RockRainEnhanced\RockRainEnhanced\RockRainEnhancedContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\web\Documents\My Dropbox\Git Repositories\RockRainEnhanced\RockRainEnhanced\RockRainEnhancedContent\obj\x86\Debug\ResolveAssemblyReference.cache
